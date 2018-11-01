@@ -1,3 +1,1 @@
-git add "file_name" 
-git commit -m "commit" 
-git push origin master 
+syns file from remote-pc
